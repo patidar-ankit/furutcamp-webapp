@@ -1,0 +1,42 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="25" fill="#1E1E1E"/>
+<g id="Login/SignUp">
+<path d="M-427 -1346C-427 -1347.1 -426.105 -1348 -425 -1348H1681C1682.1 -1348 1683 -1347.1 1683 -1346V515C1683 516.104 1682.1 517 1681 517H-425C-426.105 517 -427 516.105 -427 515V-1346Z" fill="#404040"/>
+<path d="M-425 -1347H1681V-1349H-425V-1347ZM1682 -1346V515H1684V-1346H1682ZM1681 516H-425V518H1681V516ZM-426 515V-1346H-428V515H-426ZM-425 516C-425.552 516 -426 515.552 -426 515H-428C-428 516.657 -426.657 518 -425 518V516ZM1682 515C1682 515.552 1681.55 516 1681 516V518C1682.66 518 1684 516.657 1684 515H1682ZM1681 -1347C1681.55 -1347 1682 -1346.55 1682 -1346H1684C1684 -1347.66 1682.66 -1349 1681 -1349V-1347ZM-425 -1349C-426.657 -1349 -428 -1347.66 -428 -1346H-426C-426 -1346.55 -425.552 -1347 -425 -1347V-1349Z" fill="white" fill-opacity="0.1"/>
+<g id="SIGN IN/UP- WEB">
+<g clip-path="url(#clip0_203_6549)">
+<rect x="-327" y="-367.75" width="560" height="640" rx="16" fill="white"/>
+<g id="Frame 908">
+<g id="Frame 391">
+<g id="Social login">
+<g id="button" filter="url(#filter0_d_203_6549)">
+<rect x="-15" y="-14.75" width="54" height="54" rx="14" fill="white"/>
+<rect x="-15" y="-14.75" width="54" height="54" rx="14" stroke="white" stroke-opacity="0.25"/>
+<g id="logo googleg 48dp">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M23.52 12.5227C23.52 11.6718 23.4436 10.8536 23.3018 10.0681H12V14.7099H18.4582C18.18 16.2099 17.3345 17.4808 16.0636 18.3318V21.3427H19.9418C22.2109 19.2536 23.52 16.1772 23.52 12.5227Z" fill="#4285F4"/>
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M12 24.25C15.24 24.25 17.9564 23.1755 19.9418 21.3428L16.0636 18.3318C14.9891 19.0518 13.6145 19.4773 12 19.4773C8.87455 19.4773 6.22909 17.3664 5.28546 14.53H1.27637V17.6391C3.25091 21.5609 7.30909 24.25 12 24.25Z" fill="#34A853"/>
+<path id="Shape_3" fill-rule="evenodd" clip-rule="evenodd" d="M5.28545 14.5299C5.04545 13.8099 4.90909 13.0408 4.90909 12.2499C4.90909 11.459 5.04545 10.6899 5.28545 9.96993V6.86084H1.27636C0.463636 8.48084 0 10.3136 0 12.2499C0 14.1863 0.463636 16.019 1.27636 17.639L5.28545 14.5299Z" fill="#FBBC05"/>
+<path id="Shape_4" fill-rule="evenodd" clip-rule="evenodd" d="M12 5.02273C13.7618 5.02273 15.3436 5.62818 16.5873 6.81727L20.0291 3.37545C17.9509 1.43909 15.2345 0.25 12 0.25C7.30909 0.25 3.25091 2.93909 1.27637 6.86091L5.28546 9.97C6.22909 7.13364 8.87455 5.02273 12 5.02273Z" fill="#EA4335"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_203_6549" x="-21.5" y="-20.25" width="67" height="67" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="3"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_203_6549"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_203_6549" result="shape"/>
+</filter>
+<clipPath id="clip0_203_6549">
+<rect x="-327" y="-367.75" width="560" height="640" rx="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
